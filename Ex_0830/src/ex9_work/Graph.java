@@ -22,7 +22,7 @@ public class Graph {
 					cnt++;
 				}
 			}
-			System.out.print(i + "의 갯수 : " + cnt);
+			System.out.print(i + "의 갯수 : " + cnt + " ");
 			for(int k=0; k < cnt; k++) {
 				System.out.print("#");
 			}

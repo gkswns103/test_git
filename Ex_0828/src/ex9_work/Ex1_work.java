@@ -17,4 +17,3 @@ public class Ex1_work {
 		System.out.println(w.print(str));
 	}
 }
-a
